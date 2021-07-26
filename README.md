@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/neerajnatu/)
 - 😄 Pronouns: he/him
 - 🌏 [Website](https://neerajnatu.com)
+
+![](https://komarev.com/ghpvc/?username=Neeraj-Natu)
